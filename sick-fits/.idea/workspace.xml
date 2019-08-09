@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="07e63f9f-79a5-4ffc-b1e0-32269259801e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/backend/datamodel.graphql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backend/prisma.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/src/generated/prisma.graphql" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/generated/prisma.graphql" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/variables.env.sample" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -83,7 +79,7 @@
       <workItem from="1564494480981" duration="15616000" />
       <workItem from="1565188480675" duration="63000" />
       <workItem from="1565188557028" duration="5302000" />
-      <workItem from="1565271861368" duration="5055000" />
+      <workItem from="1565271861368" duration="5668000" />
     </task>
     <servers />
   </component>
