@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="07e63f9f-79a5-4ffc-b1e0-32269259801e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/backend/src/db.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/datamodel.graphql" beforeDir="false" afterPath="$PROJECT_DIR$/backend/datamodel.graphql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/src/generated/prisma.graphql" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/generated/prisma.graphql" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -29,7 +32,7 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -79,7 +82,10 @@
       <workItem from="1564494480981" duration="15616000" />
       <workItem from="1565188480675" duration="63000" />
       <workItem from="1565188557028" duration="5302000" />
-      <workItem from="1565271861368" duration="5668000" />
+      <workItem from="1565271861368" duration="7954000" />
+      <workItem from="1565632350062" duration="21000" />
+      <workItem from="1565632384068" duration="1155000" />
+      <workItem from="1565791562956" duration="2334000" />
     </task>
     <servers />
   </component>
